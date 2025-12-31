@@ -1,0 +1,5 @@
+{
+  "name": "LingoMatch AI",
+  "description": "A Duolingo-style language vocabulary matching game powered by Gemini AI.",
+  "requestFramePermissions": []
+}
